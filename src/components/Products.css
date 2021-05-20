@@ -1,0 +1,15 @@
+.products {
+  background-color: #fff;
+  padding: 2rem;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  -ms-flex-preferred-size: 70%;
+  flex-basis: 70%;
+}
+
+.products h2 {
+  font-size: 2.4rem;
+  font-weight: normal;
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+  padding: 2rem 0;
+}
