@@ -70,6 +70,12 @@
   padding: 0 1rem;
 }
 
+.product .quantity__inc:disabled,
+.product .quantity__dec:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 .product .quantity__number {
   border: 2px solid rgba(0, 0, 0, 0.5);
   border-radius: 0.5rem;
