@@ -1,5 +1,5 @@
-import Products from "./Products";
-import Checkout from "./Checkout";
+import Products from "./Products/Products";
+import Checkout from "./Checkout/Checkout";
 import "./Main.css";
 
 const Main = () => {
